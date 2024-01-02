@@ -1,1 +1,28 @@
-# bemvindo
+<h1 align="center">Olá 👋, meu nome é Sylvielly</h1>
+<h3 align="center">Engenheira de Controle e Automação, brasileira</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvielly" alt="sylvielly" /></a> </p>
+
+- 🔭 Atualmente trabalhando na área de **refinaria de gorduras vegetais**
+
+- 🌱 Conhecimentos em: **AutoCAD, Autodesk Inventor, Excel, PowerBI, SAP, C/C++, Matlab, GNU Octave, PSIM, ORCAD, SolidWorks**
+
+- 💬 Me pergunte sobre **elétrica, automação, controle de processos industriais, eletrônica**
+
+- 📫 Como me encontrar: **sylvielly@outlook.com**
+
+- ⚡ Curiosidades sobre mim: **Uma entusiasta sobre aeronáutica. Aficcionada por engenharia elétrica / eletrônica / automação e controle / física. Apaixonada por música, livros e gatos.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sylvielly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sylvielly" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sylvielly&show_icons=true&locale=en&layout=compact" alt="sylvielly" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylvielly&show_icons=true&locale=en" alt="sylvielly" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvielly&" alt="sylvielly" /></p>
