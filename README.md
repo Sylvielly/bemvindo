@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, meu nome é Sylvielly</h1>
-<h3 align="center">Engenheira de Controle e Automação, brasileira</h3>
+<h1 align="center">Olá, meu nome é Sylvielly 👋 </h1>
+<h3 align="center">Uma brasileira e Engenheira de Controle e Automação</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvielly" alt="sylvielly" /></a> </p>
 
