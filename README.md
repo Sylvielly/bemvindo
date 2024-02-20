@@ -2,8 +2,9 @@
 <h3 align="center">Uma brasileira e Engenheira de Controle e Automação</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvielly" alt="sylvielly" /></a> </p>
-- 🔭 Atualmente sou *Assistente de PCM*
 
+- 🔭 Atualmente trabalho como **Assitente de PCM**
+  
 - 🔭 Experiência na área de **Processos Industriais**
 
 - 🌱 Conhecimentos em: **AutoCAD, Autodesk Inventor, Excel, PowerBI, SAP, C/C++, Matlab, GNU Octave, PSIM, ORCAD, SolidWorks**
