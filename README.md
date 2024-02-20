@@ -2,16 +2,17 @@
 <h3 align="center">Uma brasileira e Engenheira de Controle e Automação</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvielly" alt="sylvielly" /></a> </p>
+- 🔭 Atualmente sou **Assistente de PCM**
 
-- 🔭 Atualmente trabalhando na área de **refinaria de gorduras vegetais**
+- 🔭 Experiência na área de **Processos Industriais**
 
 - 🌱 Conhecimentos em: **AutoCAD, Autodesk Inventor, Excel, PowerBI, SAP, C/C++, Matlab, GNU Octave, PSIM, ORCAD, SolidWorks**
 
-- 💬 Me pergunte sobre **elétrica, automação, controle de processos industriais, eletrônica**
+- 💬 Me pergunte sobre **elétrica, automação, controle de processos industriais, eletrônica, física**
 
 - 📫 Como me encontrar: **sylvielly@outlook.com**
 
-- ⚡ Curiosidades sobre mim: **Uma entusiasta sobre aeronáutica. Aficcionada por engenharia elétrica / eletrônica / automação e controle / física. Apaixonada por música, livros e gatos.**
+- ⚡ Curiosidades sobre mim: **Uma entusiasta sobre aeronáutica. Aficcionada por engenharia. Apaixonada por música, livros e gatos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
