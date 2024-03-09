@@ -5,15 +5,15 @@
 
 - 🔭 Atualmente trabalho como **Assitente de PCM**
   
-- 🔭 Experiência na área de **Processos Industriais**
+- 🔭 Experiência na área de **Processos Industriais e Manutenção Industrial**
 
-- 🌱 Conhecimentos em: **AutoCAD, Autodesk Inventor, Excel, PowerBI, SAP, C/C++, Matlab, GNU Octave, PSIM, ORCAD, SolidWorks**
+- 🌱 Softwares e linguagens que utilizo: **AutoCAD, Autodesk Inventor, Excel, PowerBI, SAP, C/C++, Matlab, GNU Octave, PSIM, ORCAD, Proteus, Mathcad, SolidEdge, Altium Designer, KiCAD, PIC C Compiler, SolidWorks, Overleaf**
 
 - 💬 Me pergunte sobre **elétrica, automação, controle de processos industriais, eletrônica, física**
 
-- 📫 Como me encontrar: **sylvielly@outlook.com**
+- 📫 Como me encontrar: **sylvielly@outlook.com / sylviellysousa@gmail.com**
 
-- ⚡ Curiosidades sobre mim: **Uma entusiasta sobre aeronáutica. Aficcionada por engenharia. Apaixonada por música, livros e gatos.**
+- ⚡ Curiosidades sobre mim: **Uma entusiasta sobre aeronáutica. Aficcionada por engenharia. Apaixonada por música, livros, gatos e andar de bike.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
