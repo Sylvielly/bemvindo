@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvielly" alt="sylvielly" /></a> </p>
 
-- 🔭 Atualmente trabalho como **Assitente de PCM**
+- 🔭 Atualmente trabalho como **Assistente de PCM**
   
 - 🔭 Experiência na área de **Processos Industriais e Manutenção Industrial**
 
