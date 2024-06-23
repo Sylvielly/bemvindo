@@ -9,7 +9,7 @@
 
 - 🌱 Softwares e linguagens que utilizo: **AutoCAD, Autodesk Inventor, Excel, PowerBI, SAP, C/C++, Matlab, GNU Octave, PSIM, ORCAD, Proteus, Mathcad, SolidEdge, Altium Designer, KiCAD, PIC C Compiler, SolidWorks, Overleaf**
 
-- 💬 Me pergunte sobre **elétrica, automação, controle de processos industriais, eletrônica, física**
+- 💬 Me pergunte sobre **elétrica, automação, controle de processos industriais, eletrônica, física e aeronáutica**
 
 - 📫 Como me encontrar: **sylvielly@outlook.com / sylviellysousa@gmail.com**
 
