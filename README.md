@@ -13,7 +13,7 @@
 
 - 📫 Como me encontrar: **sylvielly@outlook.com / sylviellysousa@gmail.com**
 
-- ⚡ Curiosidades sobre mim: **Uma entusiasta do conhecimento. Apaixonada por engenharia, física, música, gatos e bike.**
+- ⚡ Curiosidades sobre mim: **Uma entusiasta do conhecimento. Apaixonada por engenharia, música, gatos e bike.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
