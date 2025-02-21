@@ -17,7 +17,7 @@
 
 - 💬 Me pergunte sobre **elétrica, automação, controle de processos industriais, eletrônica, física e aeronáutica**
 
-- 💬 Siga **@pilulasmecatronicas**
+- 💬 Siga **@pilulasmecatronicas** no Instagram
 
 - 📫 Como me encontrar: **sylvielly@outlook.com / sylviellysousa@gmail.com**
 
