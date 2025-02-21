@@ -4,6 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvielly" alt="sylvielly" /></a> </p>
 
 - 🔭 Atualmente trabalho como **Planejadora de Manutenção I**
+
+- 🔭 Atualmente ** Pós graduanda em Engenharia Elétrica **
   
 - 🔭 Experiência na área de **Processos Industriais e Manutenção Industrial**
 
