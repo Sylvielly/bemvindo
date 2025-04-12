@@ -17,7 +17,7 @@
 
 - 💬 Siga **@pilulasmecatronicas** no Instagram
 
-- 📫 Como me encontrar: **sylvielly@outlook.com / sylviellysousa@gmail.com**
+- 📫 Como me encontrar: **sylvielly@outlook.com**
 
 - ⚡ Curiosidades sobre mim: **Uma entusiasta do conhecimento. Apaixonada por engenharia, física, música, gatos e bike.**
 
