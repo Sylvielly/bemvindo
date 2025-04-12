@@ -8,8 +8,6 @@
 - 🔭 Atualmente cursando **Licenciatura em Física**
   
 - 🔭 Atualmente cursando **Técnico em Eletrotécnica**
-
-- 🔭 Atualmente trabalho como **Planejadora de Manutenção I**
   
 - 🔭 Experiência na área de **Processos Industriais e Manutenção Industrial**
 
