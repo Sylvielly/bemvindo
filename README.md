@@ -4,7 +4,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvielly" alt="sylvielly" /></a> </p>
 
 - 🔭 Atualmente cursando **Pós Graduação em Engenharia Elétrica**
-  
+
+- 🔭 Atualmente cursando **Engenharia Elétrica**
+    
 - 🔭 Atualmente cursando **Licenciatura em Física**
   
 - 🔭 Atualmente cursando **Técnico em Eletrotécnica**
