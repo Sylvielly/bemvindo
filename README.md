@@ -11,11 +11,11 @@
     
 - 🔭 Cursando **Licenciatura em Física (IFCE)**
     
-- 🔭 Experiência na área de **Processos Industriais e Manutenção Industrial**
+- 🔭 Experiência profissional na área de **Processos Industriais e Manutenção Industrial**
 
 - 🌱 Softwares e linguagens que utilizo: **AutoCAD, Autodesk Inventor, Excel, Python, SQL, PowerBI, SAP, C/C++, Matlab, Ladder, Assembly, GNU Octave, PSIM, ORCAD, Proteus, Mathcad, SolidEdge, Altium Designer, KiCAD, PIC C Compiler, SolidWorks, Overleaf, Audacity**
 
-- 💬 Me pergunte sobre **elétrica, automação, controle de processos industriais, eletrônica, física e aeronáutica**
+- 💬 Áreas favoritas: **elétrica, sistemas de controle, eletrônica, física e aeronáutica**
 
 - 💬 Siga **@pilulasmecatronicas** no Instagram
 
