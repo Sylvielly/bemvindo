@@ -1,16 +1,16 @@
 <h1 align="center">Olá, meu nome é Sylvielly 👋 </h1>
-<h3 align="center">Uma brasileira e Engenheira de Controle e Automação</h3>
+<h3 align="center">Uma brasileira e entusiasta do conhecimento!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvielly" alt="sylvielly" /></a> </p>
 
-- 🔭 Atualmente cursando **Pós Graduação em Engenharia Elétrica**
+- 🔭 **Engenheira de Controle e Automação (IFCE)**
+  
+- 🔭 **Pós Graduanda em Engenharia Elétrica (Estácio)**
 
-- 🔭 Atualmente cursando **Engenharia Elétrica**
+- 🔭 Cursando **Engenharia Elétrica (Unifor)**
     
-- 🔭 Atualmente cursando **Licenciatura em Física**
-  
-- 🔭 Atualmente cursando **Técnico em Eletrotécnica**
-  
+- 🔭 Cursando **Licenciatura em Física (IFCE)**
+    
 - 🔭 Experiência na área de **Processos Industriais e Manutenção Industrial**
 
 - 🌱 Softwares e linguagens que utilizo: **AutoCAD, Autodesk Inventor, Excel, Python, SQL, PowerBI, SAP, C/C++, Matlab, Ladder, Assembly, GNU Octave, PSIM, ORCAD, Proteus, Mathcad, SolidEdge, Altium Designer, KiCAD, PIC C Compiler, SolidWorks, Overleaf, Audacity**
