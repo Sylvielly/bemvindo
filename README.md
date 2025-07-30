@@ -15,7 +15,7 @@
 
 - 🌱 Softwares e linguagens que utilizo: **AutoCAD, Autodesk Inventor, Excel, Python, SQL, PowerBI, SAP, C/C++, Matlab, Ladder, Assembly, GNU Octave, PSIM, ORCAD, Proteus, Mathcad, SolidEdge, Altium Designer, KiCAD, PIC C Compiler, SolidWorks, Overleaf, Audacity**
 
-- 💬 Áreas favoritas: **elétrica, sistemas de controle, eletrônica, física e aeronáutica**
+- 💬 Me pergunte sobre: **elétrica, sistemas de controle, eletrônica, física e aeronáutica**
 
 - 💬 Siga **@pilulasmecatronicas** no Instagram
 
