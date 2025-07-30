@@ -21,7 +21,7 @@
 
 - 📫 Currículo Lattes: **http://lattes.cnpq.br/0752077584528271**
 
-- ⚡ Curiosidades sobre mim: **Uma entusiasta do conhecimento. Apaixonada por engenharia, física, música, gatos e bike.**
+- ⚡ Curiosidades sobre mim: **Apaixonada por engenharia, física, música, gatos e bike.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
