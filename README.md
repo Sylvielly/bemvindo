@@ -19,7 +19,7 @@
 
 - 💬 Siga **@pilulasmecatronicas** no Instagram
 
-- 📫 Como me encontrar: **sylvielly@outlook.com**
+- 📫 Currículo Lattes: **[sylvielly@outlook.com](http://lattes.cnpq.br/0752077584528271)**
 
 - ⚡ Curiosidades sobre mim: **Uma entusiasta do conhecimento. Apaixonada por engenharia, física, música, gatos e bike.**
 
