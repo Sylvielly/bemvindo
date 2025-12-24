@@ -5,7 +5,7 @@
 
 - 🔭 **Engenheira de Controle e Automação (IFCE)**
   
-- 🔭 **Pós Graduanda em Engenharia Elétrica (Estácio)**
+- 🔭 **Pós Graduada em Engenharia Elétrica (Estácio)**
 
 - 🔭 Cursando **Engenharia Elétrica (Unifor)**
     
